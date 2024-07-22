@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Navbar() {
+export default async function Navbar() {
   return (
     <div className="container p-0">
   <header className="border-bottom lh-1 px-5 py-3">

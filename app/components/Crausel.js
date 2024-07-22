@@ -1,4 +1,4 @@
-export default function Crausel() {
+export default async function Crausel() {
   return (
     <div className="container">
       <div className="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-body-secondary">
